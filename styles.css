@@ -1,0 +1,28 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+}
+.name{
+    display: flex;
+}
+.fa-brands{
+    width: 50px;
+    height: 50px;
+    justify-content:center;
+}
+.body{
+    margin-left: 30%;
+    margin-right: 30%;
+    border: solid;
+}
+.iconos{
+    justify-content: space-between;
+    display: flex;
+}
+img{
+    margin-left: 30px;
+    width: 550px;
+}
+h3{
+    margin-top: 0%;
+}
