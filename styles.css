@@ -1,7 +1,9 @@
 .header{
     display: flex;
     justify-content: space-between;
-    margin: 5%;
+    margin-top: 15px;
+    margin-bottom: 0%;
+
 }
 .name{
     display: flex;
@@ -12,9 +14,10 @@
     justify-content:center;
 }
 .body{
-    margin-left: 35%;
-    margin-right: 35%;
+    margin-left:40%;
+    margin-right: 20%;
     border: solid;
+    
 }
 .iconos{
     justify-content: space-between;
@@ -22,15 +25,13 @@
     margin: 5%;
 }
 img{
-    margin-left: auto;
-    width: 453px;
+    width: 610px;
+    height: 350px;
+
 }
 h3{
     margin-top: 0%;
 }
 .comentario{
     margin: 5%;
-}
-.foto{
-    
 }
