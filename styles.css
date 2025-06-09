@@ -1,3 +1,4 @@
+
 .header{
     display: flex;
     justify-content: space-between;
@@ -7,16 +8,19 @@
 }
 .name{
     display: flex;
+    align-items: center;
+    
 }
 .fa-brands{
     width: 50px;
     height: 50px;
     justify-content:center;
 }
-.body{
-    margin-left:40%;
-    margin-right: 20%;
+.cuerpo{
+    margin-left:35%;
+    margin-right: 35%;
     border: solid;
+
     
 }
 .iconos{
@@ -25,8 +29,8 @@
     margin: 5%;
 }
 img{
-    width: 610px;
-    height: 350px;
+    width: 450px;
+    height: 300px;
 
 }
 h3{
@@ -34,4 +38,8 @@ h3{
 }
 .comentario{
     margin: 5%;
+}
+.ih{
+    padding-top: 10px;
+    padding-left: 10px;
 }
